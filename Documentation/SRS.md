@@ -108,13 +108,13 @@ The system is a full-stack web application with:
 | # | Module | Owner |
 |---|--------|-------|
 | 1 | Authentication & RBAC | Shahid |
-| 2 | Patients | Member 3 |
-| 3 | Appointments | Member 3 |
-| 4 | Consultations | Member 2 |
-| 5 | EMR | Member 2 |
-| 6 | Billing & Payments | Member 3 |
-| 7 | Analytics | Shahid (backend), Member 3 (frontend) |
-| 8 | Notifications | Member 3 |
+| 2 | Patients | Sanskar Agrawal |
+| 3 | Appointments | Sanskar Agrawal |
+| 4 | Consultations | Dakshesh Jain |
+| 5 | EMR | Dakshesh Jain |
+| 6 | Billing & Payments | Sanskar Agrawal |
+| 7 | Analytics | Shahid (backend), Sanskar Agrawal (frontend) |
+| 8 | Notifications | Sanskar Agrawal |
 | 9 | Audit Logs | Shahid |
 | 10 | AI Module | Shahid |
 

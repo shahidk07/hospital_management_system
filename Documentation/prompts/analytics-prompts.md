@@ -1,7 +1,7 @@
 # Development Prompts: Analytics
 
 **Module:** `analytics/`  
-**Owner:** Shahid (backend), Member 3 (frontend/D3.js)
+**Owner:** Shahid (backend), Sanskar Agrawal (frontend/D3.js)
 
 ---
 

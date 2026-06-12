@@ -1,7 +1,7 @@
 # Development Prompts: Notifications
 
 **Module:** `notifications/`  
-**Owner:** Member 3
+**Owner:** Sanskar Agrawal
 
 ---
 

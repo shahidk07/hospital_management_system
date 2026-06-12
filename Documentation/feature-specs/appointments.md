@@ -1,7 +1,7 @@
 # Feature Specification: Appointment Management
 
 **Module:** `appointments/`  
-**Owner:** Member 3  
+**Owner:** Sanskar Agrawal  
 **Version:** 1.0
 
 ---

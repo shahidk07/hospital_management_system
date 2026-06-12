@@ -1,7 +1,7 @@
 # Development Prompts: Consultations
 
 **Module:** `consultations/`  
-**Owner:** Member 2
+**Owner:** Dakshesh Jain
 
 ---
 

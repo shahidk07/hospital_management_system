@@ -13,8 +13,8 @@ This document defines module ownership, responsibilities, and collaboration rule
 | Member | Role | Contribution |
 |--------|------|--------------|
 | Shahid | Technical Lead | 55% |
-| Member 2 | Clinical Operations | 22.5% |
-| Member 3 | Patient Operations | 22.5% |
+| Dakshesh Jain | Clinical Operations | 22.5% |
+| Sanskar Agrawal | Patient Operations | 22.5% |
 
 ---
 
@@ -25,13 +25,13 @@ This document defines module ownership, responsibilities, and collaboration rule
 | Authentication & RBAC | `backend/src/modules/auth/` | Shahid | — |
 | AI Module | `backend/src/modules/ai/` | Shahid | — |
 | Audit Logs | `backend/src/modules/audit-logs/` | Shahid | — |
-| Analytics (Backend) | `backend/src/modules/analytics/` | Shahid | Member 3 (UI) |
-| Patients | `backend/src/modules/patients/` | Member 3 | — |
-| Appointments | `backend/src/modules/appointments/` | Member 3 | — |
-| Billing & Payments | `backend/src/modules/billing/` | Member 3 | Shahid (Razorpay) |
-| Notifications | `backend/src/modules/notifications/` | Member 3 | — |
-| Consultations | `backend/src/modules/consultations/` | Member 2 | — |
-| EMR | `backend/src/modules/emr/` | Member 2 | Shahid (Cloudinary) |
+| Analytics (Backend) | `backend/src/modules/analytics/` | Shahid | Sanskar Agrawal (UI) |
+| Patients | `backend/src/modules/patients/` | Sanskar Agrawal | — |
+| Appointments | `backend/src/modules/appointments/` | Sanskar Agrawal | — |
+| Billing & Payments | `backend/src/modules/billing/` | Sanskar Agrawal | Shahid (Razorpay) |
+| Notifications | `backend/src/modules/notifications/` | Sanskar Agrawal | — |
+| Consultations | `backend/src/modules/consultations/` | Dakshesh Jain | — |
+| EMR | `backend/src/modules/emr/` | Dakshesh Jain | Shahid (Cloudinary) |
 
 ---
 
@@ -71,7 +71,7 @@ analytics/   (backend only)
 
 ---
 
-## Member 2 — Clinical Operations (22.5%)
+## Dakshesh Jain — Clinical Operations (22.5%)
 
 ### Responsibilities
 
@@ -97,7 +97,7 @@ emr/
 
 ---
 
-## Member 3 — Patient Operations (22.5%)
+## Sanskar Agrawal — Patient Operations (22.5%)
 
 ### Responsibilities
 
@@ -198,23 +198,23 @@ Changes affecting multiple modules require Shahid's review:
 | feature-specs/auth.md | Shahid |
 | feature-specs/ai.md | Shahid |
 | feature-specs/audit-logs.md | Shahid |
-| feature-specs/analytics.md | Shahid (backend), Member 3 (UI notes) |
-| feature-specs/consultations.md | Member 2 |
-| feature-specs/emr.md | Member 2 |
-| feature-specs/patients.md | Member 3 |
-| feature-specs/appointments.md | Member 3 |
-| feature-specs/billing.md | Member 3 |
-| feature-specs/notifications.md | Member 3 |
+| feature-specs/analytics.md | Shahid (backend), Sanskar Agrawal (UI notes) |
+| feature-specs/consultations.md | Dakshesh Jain |
+| feature-specs/emr.md | Dakshesh Jain |
+| feature-specs/patients.md | Sanskar Agrawal |
+| feature-specs/appointments.md | Sanskar Agrawal |
+| feature-specs/billing.md | Sanskar Agrawal |
+| feature-specs/notifications.md | Sanskar Agrawal |
 | prompts/auth-prompts.md | Shahid |
 | prompts/ai-prompts.md | Shahid |
 | prompts/audit-log-prompts.md | Shahid |
-| prompts/consultation-prompts.md | Member 2 |
-| prompts/emr-prompts.md | Member 2 |
-| prompts/patient-prompts.md | Member 3 |
-| prompts/appointment-prompts.md | Member 3 |
-| prompts/billing-prompts.md | Member 3 |
-| prompts/notification-prompts.md | Member 3 |
-| prompts/analytics-prompts.md | Member 3 |
+| prompts/consultation-prompts.md | Dakshesh Jain |
+| prompts/emr-prompts.md | Dakshesh Jain |
+| prompts/patient-prompts.md | Sanskar Agrawal |
+| prompts/appointment-prompts.md | Sanskar Agrawal |
+| prompts/billing-prompts.md | Sanskar Agrawal |
+| prompts/notification-prompts.md | Sanskar Agrawal |
+| prompts/analytics-prompts.md | Sanskar Agrawal |
 
 ---
 

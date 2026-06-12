@@ -1,7 +1,7 @@
 # Feature Specification: Notifications
 
 **Module:** `notifications/`  
-**Owner:** Member 3  
+**Owner:** Sanskar Agrawal  
 **Version:** 1.0
 
 ---

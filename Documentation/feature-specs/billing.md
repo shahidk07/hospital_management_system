@@ -1,7 +1,7 @@
 # Feature Specification: Billing & Payments
 
 **Module:** `billing/`  
-**Owner:** Member 3 (UI + logic), Shahid (Razorpay integration)  
+**Owner:** Sanskar Agrawal (UI + logic), Shahid (Razorpay integration)  
 **Version:** 1.0
 
 ---

@@ -1,7 +1,7 @@
 # Contributing Guide
 
 **Project:** AI-Powered Hospital Management System  
-**Team:** Shahid (Lead), Member 2, Member 3
+**Team:** Shahid (Lead), Dakshesh Jain, Sanskar Agrawal
 
 ---
 
@@ -41,8 +41,8 @@ git push -u origin feature/<module>-<description>
 | Owner | Modules | Folders |
 |-------|---------|---------|
 | **Shahid** | auth, ai, audit-logs, analytics (backend) | `backend/src/modules/auth/`, `ai/`, `audit-logs/`, `analytics/` |
-| **Member 2** | consultations, emr | `backend/src/modules/consultations/`, `emr/`, `frontend/src/pages/doctor/` |
-| **Member 3** | patients, appointments, billing, notifications, analytics (UI) | `backend/src/modules/patients/`, `appointments/`, `billing/`, `notifications/`, `frontend/src/pages/patient/` |
+| **Dakshesh Jain** | consultations, emr | `backend/src/modules/consultations/`, `emr/`, `frontend/src/pages/doctor/` |
+| **Sanskar Agrawal** | patients, appointments, billing, notifications, analytics (UI) | `backend/src/modules/patients/`, `appointments/`, `billing/`, `notifications/`, `frontend/src/pages/patient/` |
 
 **Do not edit another person's module without discussion.**
 

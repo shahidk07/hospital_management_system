@@ -2,7 +2,7 @@
 
 **Project:** AI-Powered Hospital Management System  
 **Version:** 1.0  
-**Owner:** Member 3
+**Owner:** Sanskar Agrawal
 
 This document defines when notifications are created, who receives them, and the trigger points in the system.
 

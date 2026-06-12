@@ -1,7 +1,7 @@
 # Development Prompts: Appointment Management
 
 **Module:** `appointments/`  
-**Owner:** Member 3
+**Owner:** Sanskar Agrawal
 
 ---
 

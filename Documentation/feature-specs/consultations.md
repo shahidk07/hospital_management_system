@@ -1,7 +1,7 @@
 # Feature Specification: Doctor Consultations
 
 **Module:** `consultations/`  
-**Owner:** Member 2  
+**Owner:** Dakshesh Jain  
 **Version:** 1.0
 
 ---

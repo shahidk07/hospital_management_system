@@ -1,7 +1,7 @@
 # Feature Specification: Analytics Dashboard
 
 **Module:** `analytics/`  
-**Owner:** Shahid (backend), Member 3 (frontend/D3.js)  
+**Owner:** Shahid (backend), Sanskar Agrawal (frontend/D3.js)  
 **Version:** 1.0
 
 ---

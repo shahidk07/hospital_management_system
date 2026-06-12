@@ -1,7 +1,7 @@
 # Feature Specification: Electronic Medical Records (EMR)
 
 **Module:** `emr/`  
-**Owner:** Member 2  
+**Owner:** Dakshesh Jain  
 **Version:** 1.0
 
 ---

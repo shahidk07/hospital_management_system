@@ -109,7 +109,7 @@ Before implementing any feature, read:
 | Module | Owner |
 |--------|-------|
 | auth, ai, audit-logs, analytics (backend) | Shahid |
-| consultations, emr | Member 2 |
-| patients, appointments, billing, notifications, analytics (UI) | Member 3 |
+| consultations, emr | Dakshesh Jain |
+| patients, appointments, billing, notifications, analytics (UI) | Sanskar Agrawal |
 
 Do not modify another person's module without discussion.

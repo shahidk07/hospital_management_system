@@ -277,7 +277,7 @@ backend/src/modules/
 
 # Team Structure
 
-## Shahid (Technical Lead) — 55%
+## Shahid (Technical Lead) — 50%
 
 Responsibilities:
 
@@ -309,7 +309,7 @@ Cross-Cutting Responsibilities:
 
 ---
 
-## Member 2 (Clinical Operations) — 22.5%
+## Dakshesh Jain (Clinical Operations) — 25%
 
 Responsibilities:
 
@@ -325,7 +325,7 @@ Modules:
 
 ---
 
-## Member 3 (Patient Operations) — 22.5%
+## Sanskar Agrawal (Patient Operations) — 25%
 
 Responsibilities:
 

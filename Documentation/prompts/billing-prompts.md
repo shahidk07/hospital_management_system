@@ -1,7 +1,7 @@
 # Development Prompts: Billing & Payments
 
 **Module:** `billing/`  
-**Owner:** Member 3 (UI), Shahid (Razorpay)
+**Owner:** Sanskar Agrawal (UI), Shahid (Razorpay)
 
 ---
 

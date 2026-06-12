@@ -1,7 +1,7 @@
 # Development Prompts: Patient Management
 
 **Module:** `patients/`  
-**Owner:** Member 3
+**Owner:** Sanskar Agrawal
 
 ---
 

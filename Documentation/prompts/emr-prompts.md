@@ -1,7 +1,7 @@
 # Development Prompts: EMR
 
 **Module:** `emr/`  
-**Owner:** Member 2
+**Owner:** Dakshesh Jain
 
 ---
 

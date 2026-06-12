@@ -1,7 +1,7 @@
 # Feature Specification: Patient Management
 
 **Module:** `patients/`  
-**Owner:** Member 3  
+**Owner:** Sanskar Agrawal  
 **Version:** 1.0
 
 ---
